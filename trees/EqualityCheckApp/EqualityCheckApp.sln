@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityCheckApp", "EqualityCheckApp\EqualityCheckApp.csproj", "{1BB7B969-75A5-4FAC-B00B-C348128311E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityCheckTests", "EqualityCheckTests\EqualityCheckTests.csproj", "{AB052441-102B-450C-BBEB-6D131A70CF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BB7B969-75A5-4FAC-B00B-C348128311E1}.Debug|x86.ActiveCfg = Debug|x86
+		{1BB7B969-75A5-4FAC-B00B-C348128311E1}.Debug|x86.Build.0 = Debug|x86
+		{1BB7B969-75A5-4FAC-B00B-C348128311E1}.Release|x86.ActiveCfg = Release|x86
+		{1BB7B969-75A5-4FAC-B00B-C348128311E1}.Release|x86.Build.0 = Release|x86
+		{AB052441-102B-450C-BBEB-6D131A70CF36}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB052441-102B-450C-BBEB-6D131A70CF36}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB052441-102B-450C-BBEB-6D131A70CF36}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB052441-102B-450C-BBEB-6D131A70CF36}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EqualityCheckApp\EqualityCheckApp.csproj
+	EndGlobalSection
+EndGlobal

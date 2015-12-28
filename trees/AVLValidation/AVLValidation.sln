@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLValidation", "AVLValidation\AVLValidation.csproj", "{48552DDC-C010-4D24-AC1D-EFFCD4B9A865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLValidationTests", "AVLValidationTests\AVLValidationTests.csproj", "{7C70AED2-0B69-44CE-8DA0-1ADF83150245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48552DDC-C010-4D24-AC1D-EFFCD4B9A865}.Debug|x86.ActiveCfg = Debug|x86
+		{48552DDC-C010-4D24-AC1D-EFFCD4B9A865}.Debug|x86.Build.0 = Debug|x86
+		{48552DDC-C010-4D24-AC1D-EFFCD4B9A865}.Release|x86.ActiveCfg = Release|x86
+		{48552DDC-C010-4D24-AC1D-EFFCD4B9A865}.Release|x86.Build.0 = Release|x86
+		{7C70AED2-0B69-44CE-8DA0-1ADF83150245}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C70AED2-0B69-44CE-8DA0-1ADF83150245}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C70AED2-0B69-44CE-8DA0-1ADF83150245}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C70AED2-0B69-44CE-8DA0-1ADF83150245}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AVLValidation\AVLValidation.csproj
+	EndGlobalSection
+EndGlobal

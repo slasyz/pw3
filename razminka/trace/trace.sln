@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trace", "trace\trace.csproj", "{2B8268C5-C23A-4116-8B51-64698EBC59C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8268C5-C23A-4116-8B51-64698EBC59C1}.Debug|x86.ActiveCfg = Debug|x86
+		{2B8268C5-C23A-4116-8B51-64698EBC59C1}.Debug|x86.Build.0 = Debug|x86
+		{2B8268C5-C23A-4116-8B51-64698EBC59C1}.Release|x86.ActiveCfg = Release|x86
+		{2B8268C5-C23A-4116-8B51-64698EBC59C1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = trace\trace.csproj
+	EndGlobalSection
+EndGlobal
